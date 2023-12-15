@@ -60,7 +60,7 @@ const Header = () => {
                     <Link to={'/login'}  >LOGIN </Link>
                 </Button>
                 <Button colorScheme='purple' onClick={onClose}  > 
-                <Link to={'/SI'}  >SIGNUP </Link>
+                <Link to={'/signup'}  >SIGNUP </Link>
                 </Button>
             </HStack>
           </DrawerBody>
